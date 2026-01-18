@@ -1,5 +1,5 @@
 # EVURO-park
-Urban dog walking and date 
+Urban dog walking and date app.
 
 ## Configuration
 
