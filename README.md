@@ -1,11 +1,13 @@
 # EVURO-park
 Urban dog walking and date 
 
+Website: [evuropets.com](https://evuropets.com)
+
 ## Configuration
 
 ### Cloudflare API Setup
 
-This project uses Cloudflare API for various services. To configure:
+This project uses Cloudflare API for managing the evuropets.com domain and related services. To configure:
 
 1. **Copy the environment template:**
    ```bash
